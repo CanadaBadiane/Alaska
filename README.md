@@ -1,6 +1,6 @@
-# Ma contribution au projet Alaska
+# Mes contributions au projet Alaska
 
-Alaska est une boutique en ligne de manteaux d'hiver techniques, développée sous WordPress avec WooCommerce dans le cadre d'un stage chez Pandora Brand Marketing. Le projet a été réalisé en équipe ; voici le détail de ma contribution.
+Alaska est une boutique en ligne de manteaux d'hiver techniques, développée sous WordPress avec WooCommerce dans le cadre d'un stage chez Pandora Brand Marketing. Ce dépôt ne contient pas le code du projet (privé), uniquement la description de mes contributions. Le projet a été réalisé en équipe ; voici les détails de mes contributions.
 
 ## Pages développées
 
